@@ -313,10 +313,7 @@ fn edit_note() {
             }
         }
         // -----------------------------------------------
-        // MODE 3 — delete lines (FIXED)
-        // Collects all target line numbers first, then
-        // removes them in reverse order so earlier removals
-        // don't shift the indices of later ones.
+        // MODE 3 — delete lines 
         // -----------------------------------------------
         "3" => {
             let mut content_lines: Vec<String> = content.lines().map(|l| l.to_string()).collect();
