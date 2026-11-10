@@ -1,0 +1,27 @@
+1. Tic Tac Toe
+2. Calculator
+3. Password Generator & Checker
+4. Lottery App
+5. Contacts App
+6. Notepad CLI
+7. To-Do List
+8. Quiz App
+9. Chatbot
+10. Number Guessing Game
+11. Hangman
+12. Bank Account Simulator
+13. Word Frequency Counter
+14. Unit Converter
+15. Student Grade Manager
+16. Library Book System
+17. Text Adventure Game
+18. Flashcard Study App
+19. Budget Tracker
+20. Roman Numeral Converter
+21. Morse Code Converter
+22. Simple Event Logger
+23. CLI Argument Tool
+24. File Encryption Tool
+25. Simple TCP Chat
+26. Markdown to Plain Text Converter
+27. Weather App
