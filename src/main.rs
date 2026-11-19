@@ -417,7 +417,7 @@ fn save_groups(indices: &[usize], groups: &[Vec<String>; 4]) -> bool {
 fn filter() {
     println!("\n--- Filter Text ---");
     println!("Categorises tokens: Numbers, IP Addresses, Web Addresses, Alphanumeric Codes.");
-    println!("(Decimal numbers are treated as IP addresses.)");
+    println!("(Decimal point numbers are treated as IP addresses.)");
 
     let content = read_multiline("Enter the text to filter:");
 
